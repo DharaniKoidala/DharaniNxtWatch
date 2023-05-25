@@ -41,7 +41,7 @@ export const Description = styled.p`
   font-size: 18px;
   color: ${props => (props.darkMode ? '#94a3b8' : '#181818')};
   margin-top: 30px;
-  margin-bottom; 0px;
+  margin-bottom: 0px;
 `
 export const DynamicDataStyling = styled.p`
   font-size: 15px;
